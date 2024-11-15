@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a YouTuber! [Check out my channel!](https://youtube.com/hswolff)
-
 <!--
 **hswolff/hswolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
